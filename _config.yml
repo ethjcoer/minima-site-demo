@@ -8,6 +8,9 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 # social links
 # twitter_username: jekyllrb
+twitter:
+ - username: jekyllrb
+   instance: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 github_username:  jekyll
 rss: rss
 # dribbble_username: jekyll
@@ -25,9 +28,6 @@ rss: rss
 #   instance: example.com
 # - username: jekyll2
 #   instance: example.com
-twitter:
- - username: jekyllrb
-   instance: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
 show_excerpts: true # set to true to show excerpts on the homepage
