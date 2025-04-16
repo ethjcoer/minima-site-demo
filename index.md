@@ -6,13 +6,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: null
+title: none
 ---
 
 ## On Growth and Progress:
 
 > “The expert in anything was once a beginner.”
-> — Helen Hayes
+
+— Helen Hayes
 
 > “Success is the sum of small efforts, repeated day in and day out.”
-> — Robert Collier
+
+— Robert Collier
